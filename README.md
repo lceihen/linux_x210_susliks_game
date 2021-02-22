@@ -1,0 +1,2 @@
+# linux_x210_susliks_game
+基于三星x210开发板的打地鼠游戏
